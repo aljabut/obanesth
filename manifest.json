@@ -2,7 +2,7 @@
   "name": "Obstetric Anesthesia App",
   "short_name": "ObAnesth",
   "description": "Evidence-based clinical reference for obstetric anesthesia providers",
-  "start_url": "/obanesth/",
+  "start_url": "/",
   "display": "standalone",
   "background_color": "#0f2b3d",
   "theme_color": "#2A7F8F",
